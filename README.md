@@ -1,2 +1,2 @@
 # DS_SpaceX_F9
- In this project, we aim to predict whether the Falcon 9 rocket's first stage will successfully land. 
+In this project, we aim to predict whether the Falcon 9 rocket's first stage will successfully land. SpaceX offers these launches for $62 million, much cheaper than competitors' prices, which start at $165 million. This price difference is largely because SpaceX can reuse the first stage. Knowing whether the first stage will land allows us to figure out the launch cost. This information could help other companies compete with SpaceX for launching rockets
