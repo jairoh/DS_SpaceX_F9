@@ -16,3 +16,11 @@ Conclusion:
     - SSO Orbit had no unsuccessful landing.
 - By focusing on those 3 factors, we can improve the success rate of F9 future launches.
 - Decision Tree Model best performed for this dataset with 89% accuracy.
+
+======
+**• Business Impact**: Achieving a successful landing of SpaceX's rocket first stage could dramatically reduce launch costs from $165 million to $62 million, offering a $103 million advantage over competitors.
+**• Technical Skills**: 
+✅ Data Collection using API (SpaceX API), and Web-scraping using BeautifulSoup
+✅ EDA Using SQL, Pandas, and Matplotlib
+✅ Interactive Visual Analytics and Dashboards (Folium & Plotly Dash)
+✅ Predictive Analysis using four different Classification Models (Decision Tree, K-Nearest Neighbor, Support Vector Machine, and Logistic Regression).
