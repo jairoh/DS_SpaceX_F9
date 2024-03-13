@@ -1,5 +1,24 @@
 # DS_SpaceX_F9
-In this project, we aim to predict whether the Falcon 9 rocket's first stage will successfully land. SpaceX offers these launches for $62 million, much cheaper than competitors' prices, which start at $165 million. This price difference is largely because SpaceX can reuse the first stage. Knowing whether the first stage will land allows us to figure out the launch cost. This information could help other companies compete with SpaceX for launching rockets.
+In this project, we aim to predict whether the Falcon 9 rocket's first stage will successfully land. 
+
+
+**Business Impact**: Achieving a successful landing of SpaceX's rocket first stage could dramatically reduce launch costs from $165 million to $62 million, offering a $103 million advantage over competitors.
+
+**Technical Skills**: 
+
+✅ Data Collection using API (SpaceX API), and Web-scraping using BeautifulSoup
+
+✅ EDA Using SQL, Pandas, and Matplotlib
+
+✅ Interactive Visual Analytics and Dashboards (Folium & Plotly Dash)
+
+✅ Predictive Analysis using four different Classification Models (Decision Tree, K-Nearest Neighbor, Support Vector Machine, and Logistic Regression
+
+
+------------------------------------
+
+
+SpaceX offers these launches for $62 million, much cheaper than competitors' prices, which start at $165 million. This price difference is largely because SpaceX can reuse the first stage. Knowing whether the first stage will land allows us to figure out the launch cost. This information could help other companies compete with SpaceX for launching rockets.
 
 
 Questions for analysis:
@@ -17,10 +36,3 @@ Conclusion:
 - By focusing on those 3 factors, we can improve the success rate of F9 future launches.
 - Decision Tree Model best performed for this dataset with 89% accuracy.
 
-======
-**• Business Impact**: Achieving a successful landing of SpaceX's rocket first stage could dramatically reduce launch costs from $165 million to $62 million, offering a $103 million advantage over competitors.
-**• Technical Skills**: 
-✅ Data Collection using API (SpaceX API), and Web-scraping using BeautifulSoup
-✅ EDA Using SQL, Pandas, and Matplotlib
-✅ Interactive Visual Analytics and Dashboards (Folium & Plotly Dash)
-✅ Predictive Analysis using four different Classification Models (Decision Tree, K-Nearest Neighbor, Support Vector Machine, and Logistic Regression).
